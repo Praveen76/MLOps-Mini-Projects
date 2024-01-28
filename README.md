@@ -5,11 +5,8 @@ Welcome to the MLOps Mini Projects repository! This collection of mini-projects 
 ## Projects
 
 1. [Build and deploy an advanced IBM Watson AI chatbot using Flask](https://github.com/Praveen76/Build-and-deploy-an-advanced-IBM-Watson-AI-chatbot-using-Flask) : Build an advanced chatbot, utilizing IBM Watson Assistant, IBM Watson Discovery service, Rest APIs to fetch data, Flask, etc.
-2. [**Deploy Machine Learning Projects**](https://github.com/Praveen76/Deploy-ML-Projects-tutorial)
-   - Deploy a machine learning model using utilizing Titanic Data, and incorporating Data-preprocessing, Model Training, Model Deployment, etc.
-3. [**Deploy ML Projects using FastAPI**](https://github.com/Praveen76/Deploy-ML-projects-using-FastAPI)- 
-   Deploy ML Projects using FastAPI using FastAPI, incorporating pre-processing, model training, and deployment.
-4. [**Deploy Loan Approval Classifier Model on Azure Cloud**](https://github.com/Praveen76/Deploy-Loan-Approval-Classifier-on-Azure-cloud)
+2. [Build CI Pipeline for ML Models using Docker and GitHub Actions](https://github.com/Praveen76/Build-CI-pipeline-for-ML-models-using-Docker-and-GitHub-Actions): This repository contains code and files for building and deploying a Machine Learning model for predicting the survival of Titanic passengers using FastAPI, Docker and GitHub Actions.
+3. [**Deploy Loan Approval Classifier Model on Azure Cloud**](https://github.com/Praveen76/Deploy-Loan-Approval-Classifier-on-Azure-cloud)
    - Create an end-to-end MLOps pipeline on Azure Cloud for Loan Approval Classifier Model, incorporating pre-processing, model training, and deployment.
 
 Feel free to contribute by adding your own mini-projects to the list!
