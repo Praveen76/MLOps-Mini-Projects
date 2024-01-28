@@ -5,7 +5,7 @@ Welcome to the MLOps Mini Projects repository! This collection of mini-projects 
 ## Projects
 
 1. [Build and deploy an advanced IBM Watson AI chatbot using Flask](https://github.com/Praveen76/Build-and-deploy-an-advanced-IBM-Watson-AI-chatbot-using-Flask) : Build an advanced chatbot, utilizing IBM Watson Assistant, IBM Watson Discovery service, Rest APIs to fetch data, Flask, etc.
-2. [Build CI/CD Pipeline for ML Models using Docker and GitHub Actions](https://github.com/Praveen76/Build-CI-CD-pipeline-for-ML-models-using-Docker-and-GitHub-Actions): This repository contains code and files for orchastrating CI/CD pipeline to buildi and deploy a Machine Learning model for predicting the survival of Titanic passengers using FastAPI, Docker and GitHub Actions.
+2. [Build CI/CD Pipeline for ML Models using Docker and GitHub Actions](https://github.com/Praveen76/Build-CI-CD-pipeline-for-ML-models-using-Docker-and-GitHub-Actions): This repository contains code and files for orchastrating CI/CD pipeline to build and deploy a Machine Learning model for predicting the survival of Titanic passengers using FastAPI, Docker and GitHub Actions.
 3. [Dockerize ML-applications using FastAPI](https://github.com/Praveen76/Dockerize-ML-applications-using-FastAPI/): This repository contains code for creating and deploying a machine learning application using FastAPI and Docker.
 4. [**Deploy Loan Approval Classifier Model on Azure Cloud**](https://github.com/Praveen76/Deploy-Loan-Approval-Classifier-on-Azure-cloud): Create an end-to-end MLOps pipeline on Azure Cloud for Loan Approval Classifier Model, incorporating pre-processing, model training, and deployment.
 
